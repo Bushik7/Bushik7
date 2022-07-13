@@ -4,6 +4,14 @@
 
 ---
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/@Bushik7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@Bushik7" height="30" width="40" /></a>
+  <a href="https://t.me/Bushik7" target="blank"><img align="center" src="https://www.svgrepo.com/show/354443/telegram.svg" alt="@Bushik7" height="30" width="40" /></a>
+</p>
+
+---
+
 ### [Резюме](https://bushik7.github.io/Resume/)
 
 ### [Хакатон]()
