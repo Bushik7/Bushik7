@@ -14,7 +14,9 @@
 
 ### [Резюме](https://bushik7.github.io/Resume/)
 
-### [Хакатон]()
+### [Хакатон#1](https://github.com/Bushik7/Nice-react-project)
+
+### [Хакатон#2](https://github.com/Bushik7/Hackathon)
 
 ### [Рабочий проект](https://github.com/Bushik7/fast-company)
 
