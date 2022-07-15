@@ -18,7 +18,9 @@
 
 ### [Хакатон#2](https://github.com/Bushik7/Hackathon)
 
-### [Рабочий проект](https://github.com/Bushik7/fast-company)
+### [Рабочий проект#1](https://github.com/Bushik7/fast-company)
+
+### [Рабочий проект#2](https://github.com/Bushik7/Donation-for-charity)
 
 ---
 
